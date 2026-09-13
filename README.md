@@ -31,6 +31,8 @@ I am responsible for:
 
 The deployed contract source is published as an Exact Match on BscScan. This is source-code verification, not a security audit or endorsement.
 
+The XKT contract address was verified under the project's BscScan account on 7 September 2026. This supports control of the token-information update workflow, but it is not an independent personal identity or background check.
+
 ## Identity and accountability
 
 - Name: Yukun Zang
